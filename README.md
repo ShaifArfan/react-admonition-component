@@ -1,3 +1,9 @@
+![React Admonition Component](./banner.png);
+## React Admonition Component
+with [React](https://reactjs.org/) and [Styled Components](https://www.styled-components.com/). 
+
+component: 
+```jsx
 import React from 'react';
 import styled from 'styled-components';
 
@@ -85,3 +91,4 @@ function Admonition({ title, icon, children, type = 'default', className }) {
 }
 
 export default Admonition;
+```
